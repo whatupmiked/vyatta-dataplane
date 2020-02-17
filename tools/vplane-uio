@@ -258,6 +258,7 @@ my @pci_devices = (
 
     # Virtio
     { vendor => 0x1af4, device => 0x1000 },
+    { vendor => 0x1af4, device => 0x1041 },
 
     # Windriver Accelerated Virtual Port
     { vendor => 0x1af4, device => 0x1110 },
